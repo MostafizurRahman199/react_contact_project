@@ -1,0 +1,22 @@
+
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 8px;
+    height: 72px;
+  
+  }
+  
+  .navigation_item{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    gap: 24px;
+    font-weight: 500;
+  
+  }
+  
+  .navigation_item li:hover{
+    color:rgb(94, 216, 255);
+    border-bottom: 1px solid rgb(94, 216, 255) ;
+  }
