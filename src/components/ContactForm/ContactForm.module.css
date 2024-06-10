@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.contact_form{
+
+
+}
+
+.contact_image{
+
+    
+}
+
+.top_btn{
+    display: flex;
+    gap: 32px;
+}
