@@ -1,44 +1,37 @@
-.primary_btn{
-    
-    background-color: black;
-    color: white;
-    font-size: 16px;
-    font-weight: 500;
-    min-width: 220px;
-    border-radius: 5px;
-    font-family: "Poppins", sans-serif;
-    text-align: center;
-    display: flex;
-    gap: 8px;
-    justify-content: center;
-    padding-top: 6px;
-  
+.primary_btn {
+  background-color: black;
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+  min-width: 220px;
+  border-radius: 5px;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding-top: 6px;
+  cursor: pointer;
 }
 
-.btn_logo{
- 
-   font-size: 22px;
+.btn_logo {
+  font-size: 22px;
 }
 
-
-.secondary_btn{
-    
-    background-color: transparent;
-    border: 1px solid black;
-    color: black;
-    font-size: 16px;
-    font-weight: 500;
-    /* min-width: 472px; */
-    width: 100%;
-    border-radius: 5px;
-    font-family: "Poppins", sans-serif;
-    text-align: center;
-    display: flex;
-    gap: 8px;
-    justify-content: center;
-    padding-top: 6px;
-  
+.secondary_btn {
+  cursor: pointer;
+  background-color: transparent;
+  border: 1px solid black;
+  color: black;
+  font-size: 16px;
+  font-weight: 500;
+  /* min-width: 472px; */
+  width: 100%;
+  border-radius: 5px;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding-top: 6px;
 }
-
-
-

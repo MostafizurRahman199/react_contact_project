@@ -13,3 +13,13 @@ body{
   max-width: 1280px;
   margin: 0 auto;
 }
+
+
+.main_container{
+  display: flex;
+  height: calc(100vh  - 80px);
+ flex-direction: column;
+ margin-bottom: 50px;
+ justify-content: end;
+
+ }
